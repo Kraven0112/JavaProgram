@@ -1,0 +1,6 @@
+Time Complexity --> It is relation between input size and running time operation 
+Types of time Complexity : best-case average-case and worst-case
+
+best-case --> it is called omega(Ω, ω) of 1
+average-case --> it calles theta(θ) of (n+1)/2
+worst-case --> it calles O(n) or Big O of n
