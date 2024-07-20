@@ -12,7 +12,6 @@ public class Maximum {
         int numbers[] = new int[size];
 
         int max = 0;
-        int min = 0;
 
         for(int i=0; i<numbers.length; i++){
             numbers[i] = mc.nextInt();
