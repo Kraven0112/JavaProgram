@@ -13,7 +13,7 @@ class Child extends Parent{
     int Amount = 1200000;
 }
 
-public class Multiple_inheritance {
+public class Multi_level_inheritance {
     public static void main(String[] args){
         Child obj = new Child();
 
