@@ -2,3 +2,8 @@ JVM --> Java Virtual Machine
 JRE --> Java Runtime Environment
 JDK --> Java Development Kit
 
+JDK provides  libraries, tools like that all necessary things for java program.
+
+JRE is known as communicator between operating system and java program.
+
+JVM allows java program to run in different platfrom and operating system.
