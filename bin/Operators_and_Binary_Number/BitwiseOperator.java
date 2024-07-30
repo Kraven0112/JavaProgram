@@ -12,7 +12,7 @@ public class BitwiseOperator {
         System.out.println(a|b);
 
         //bitwise XOR(^)
-        System.out.println(12^8);
+        System.out.println(a^b);
 
         //bitwise complement(~)
         System.out.println(~a);
