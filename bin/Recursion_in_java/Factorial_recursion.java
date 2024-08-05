@@ -14,4 +14,5 @@ public class Factorial_recursion {
     public static void main(String[]args){
         printMultiply(1, 5, 1);
     }
+    
 }
